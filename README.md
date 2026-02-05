@@ -53,6 +53,12 @@ print("MSE:",mse)
 print("RMSE:",rmse)
 print("MAE:",mae)
 print("R2:",r2)
+/*
+Program to implement the linear regression using gradient descent.
+Developed by: J Nishanth
+RegisterNumber:2503212210421284
+*/
+
 ```
 
 ## Output:
