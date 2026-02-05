@@ -56,7 +56,7 @@ print("R2:",r2)
 ```
 
 ## Output:
-![exp2 graph](https://github.com/user-attachments/assets/5eb5755d-c3c2-495f-883e-2d98ba4764b6)
+<img width="1375" height="649" alt="Screenshot 2026-02-05 141417" src="https://github.com/user-attachments/assets/eab99781-fe6f-4e4d-a06f-dda1894de01f" />
 
 
 ## Result:
